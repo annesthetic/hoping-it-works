@@ -1,0 +1,10 @@
+*{
+    box-sizing: border-box;
+}
+.glass{
+        float: left;
+        margin-left: 10px;
+        margin-right: 20px;
+        padding: 10px;
+}
+
